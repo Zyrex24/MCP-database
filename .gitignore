@@ -172,3 +172,12 @@ dist
 .wrangler/
 
 # Extra folders
+
+.claude/
+PRPs/
+
+.gitignore
+
+CLAUDE.md
+
+claude-code-prp-setup.md
